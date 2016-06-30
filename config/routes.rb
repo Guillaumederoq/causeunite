@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
-  root 'creatives#index'
-  get 'creatives/index'
+  root 'grayscales#index'
+  get 'grayscales/index'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
